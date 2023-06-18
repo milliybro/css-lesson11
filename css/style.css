@@ -78,6 +78,7 @@ nav {
    line-height: 22px;
    color: #A1B5BB;
    text-decoration: none;
+   transition: .5s;
 }
 
 .nav-items a:hover {
